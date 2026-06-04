@@ -1,0 +1,2786 @@
+{
+  "categories": [
+    {
+      "id": "4288661",
+      "title": "Древесина",
+      "emoji": "🪵",
+      "items": [
+        {
+          "name": "Древесина",
+          "id": "Wood",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Wood.png",
+          "biomes": [
+            "Луга",
+            "Чёрный лес",
+            "Болота",
+            "Горы",
+            "Равнины",
+            "Туманные земли",
+            "Пепельные земли"
+          ],
+          "sources": [
+            "Ветки на земле",
+            "Кусты",
+            "Все виды деревьев",
+            "Деревянные постройки",
+            "Все виды грейдворфов"
+          ],
+          "spawnCommand": "spawn Wood 50 p",
+          "stage": "Луга"
+        },
+        {
+          "name": "Качественная древесина",
+          "id": "FineWood",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Fine_wood.png",
+          "biomes": [
+            "Луга",
+            "Равнины"
+          ],
+          "sources": [
+            "Берёза",
+            "Дуб",
+            "Мебель",
+            "Обломки кораблей"
+          ],
+          "spawnCommand": "spawn FineWood 50 p",
+          "stage": "Луга"
+        },
+        {
+          "name": "Цельная древесина",
+          "id": "RoundLog",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Core_wood.png",
+          "biomes": [
+            "Чёрный лес",
+            "Горы"
+          ],
+          "sources": [
+            "Сосна",
+            "Деревянные постройки"
+          ],
+          "spawnCommand": "spawn RoundLog 50 p",
+          "stage": "Чёрный лес"
+        },
+        {
+          "name": "Древняя кора",
+          "id": "ElderBark",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Ancient_bark.png",
+          "biomes": [
+            "Болота"
+          ],
+          "sources": [
+            "Сундуки в затонувших склепах",
+            "Старые деревья"
+          ],
+          "spawnCommand": "spawn ElderBark 50 p",
+          "stage": "Болота"
+        },
+        {
+          "name": "Древесина Иггдрасиля",
+          "id": "YggdrasilWood",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Yggdrasil_wood.png",
+          "biomes": [
+            "Туманные земли"
+          ],
+          "sources": [
+            "Ветвь Иггдрасиля"
+          ],
+          "spawnCommand": "spawn YggdrasilWood 50 p",
+          "stage": "Туманные земли"
+        },
+        {
+          "name": "Пепельная древесина",
+          "id": "BlackWood",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Ashwood.png",
+          "biomes": [
+            "Пепельные земли"
+          ],
+          "sources": [
+            "Горелое дерево"
+          ],
+          "spawnCommand": "spawn BlackWood 50 p",
+          "stage": "Пепельные земли"
+        }
+      ],
+      "mainSectionId": "resources"
+    },
+    {
+      "id": "4288693",
+      "title": "Руда",
+      "emoji": "🪨",
+      "items": [
+        {
+          "name": "Медная руда",
+          "id": "CopperOre",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Copper_ore.png",
+          "biomes": [
+            "Чёрный лес"
+          ],
+          "sources": [
+            "Месторождения меди",
+            "Тролль-рыба"
+          ],
+          "spawnCommand": "spawn CopperOre 30 p",
+          "stage": "Чёрный лес"
+        },
+        {
+          "name": "Оловянная руда",
+          "id": "TinOre",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Tin_ore.png",
+          "biomes": [
+            "Чёрный лес"
+          ],
+          "sources": [
+            "Месторождения олова",
+            "Тунец"
+          ],
+          "spawnCommand": "spawn TinOre 30 p",
+          "stage": "Чёрный лес"
+        },
+        {
+          "name": "Металлолом",
+          "id": "IronScrap",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Scrap_iron.png",
+          "biomes": [
+            "Болота",
+            "Туманные земли"
+          ],
+          "sources": [
+            "Сундуки в затонувших склепах",
+            "Кучи грязного лома в затонувших склепах",
+            "Кучи грязного лома под землёй (дужка для поиcка)",
+            "Древний меч",
+            "Древняя броня",
+            "Слизняк"
+          ],
+          "spawnCommand": "spawn IronScrap 30 p",
+          "stage": "Болота"
+        },
+        {
+          "name": "Железная руда",
+          "id": "IronOre",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_IronOre.png",
+          "biomes": [
+            "Болота"
+          ],
+          "sources": [
+            "Гигантская сельдь"
+          ],
+          "spawnCommand": "spawn IronOre 30 p",
+          "stage": "Болота"
+        },
+        {
+          "name": "Серебряная руда",
+          "id": "SilverOre",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Silver_ore.png",
+          "biomes": [
+            "Горы"
+          ],
+          "sources": [
+            "Залежи серебра под землёй (дужка для поиcка)"
+          ],
+          "spawnCommand": "spawn SilverOre 30 p",
+          "stage": "Горы"
+        },
+        {
+          "name": "Кусок чёрного металла",
+          "id": "BlackMetalScrap",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Black_metal_scrap.png",
+          "biomes": [
+            "Равнины"
+          ],
+          "sources": [
+            "Сундуки в поселениях",
+            "Все виды фулингов",
+            "Групер"
+          ],
+          "spawnCommand": "spawn BlackMetalScrap 30 p",
+          "stage": "Равнины"
+        },
+        {
+          "name": "Медный металлолом",
+          "id": "CopperScrap",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Copper_scrap.png",
+          "biomes": [
+            "Туманные земли"
+          ],
+          "sources": [
+            "Постройки двергов",
+            "Древний меч",
+            "Древняя броня"
+          ],
+          "spawnCommand": "spawn CopperScrap 30 p",
+          "stage": "Туманные земли"
+        },
+        {
+          "name": "Бронзовый металлолом",
+          "id": "BronzeScrap",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Scrap_bronze.png",
+          "biomes": [
+            "Пепельные земли"
+          ],
+          "sources": [
+            "Шипы на стенах и башне крепости"
+          ],
+          "spawnCommand": "spawn BronzeScrap 30 p",
+          "stage": "Пепельные земли"
+        },
+        {
+          "name": "Светящаяся металлическая руда",
+          "id": "FlametalOre",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Flametal_ore_old.png",
+          "biomes": [],
+          "sources": [
+            "Только через консоль"
+          ],
+          "spawnCommand": "spawn FlametalOre 30 p",
+          "stage": "Луга"
+        },
+        {
+          "name": "Огнеметаллическая руда",
+          "id": "FlametalOreNew",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Flametal_ore.png",
+          "biomes": [
+            "Пепельные земли"
+          ],
+          "sources": [
+            "Жилы огнеметаллической руды",
+            "Магмарыбка"
+          ],
+          "spawnCommand": "spawn FlametalOreNew 30 p",
+          "stage": "Пепельные земли"
+        }
+      ],
+      "mainSectionId": "resources"
+    },
+    {
+      "id": "4288745",
+      "title": "Металлы",
+      "emoji": "🔩",
+      "items": [
+        {
+          "name": "Медь",
+          "id": "Copper",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Copper.png",
+          "biomes": [],
+          "sources": [
+            "Плавильня: Медная руда или Медный металлолом"
+          ],
+          "spawnCommand": "spawn Copper 30 p",
+          "stage": "Луга"
+        },
+        {
+          "name": "Олово",
+          "id": "Tin",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Tin.png",
+          "biomes": [],
+          "sources": [
+            "Плавильня: Оловянная руда"
+          ],
+          "spawnCommand": "spawn Tin 30 p",
+          "stage": "Луга"
+        },
+        {
+          "name": "Бронза",
+          "id": "Bronze",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Bronze.png",
+          "biomes": [],
+          "sources": [
+            "Кузница: Медь x2 + Олово",
+            "Плавильня: Бронзовый металлолом"
+          ],
+          "spawnCommand": "spawn Bronze 30 p",
+          "stage": "Луга"
+        },
+        {
+          "name": "Железо",
+          "id": "Iron",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Iron.png",
+          "biomes": [],
+          "sources": [
+            "Плавильня: Железная руда или Металлолом"
+          ],
+          "spawnCommand": "spawn Iron 30 p",
+          "stage": "Луга"
+        },
+        {
+          "name": "Серебро",
+          "id": "Silver",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Silver.png",
+          "biomes": [],
+          "sources": [
+            "Плавильня: Серебряная руда",
+            "Удочка: Северный лосось"
+          ],
+          "spawnCommand": "spawn Silver 30 p",
+          "stage": "Луга"
+        },
+        {
+          "name": "Чёрный металл",
+          "id": "BlackMetal",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Black_metal.png",
+          "biomes": [],
+          "sources": [
+            "Доменная печь: Кусок чёрного металла"
+          ],
+          "spawnCommand": "spawn BlackMetal 30 p",
+          "stage": "Луга"
+        },
+        {
+          "name": "Древний металл",
+          "id": "Flametal",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Flametal_old.png",
+          "biomes": [],
+          "sources": [
+            "Только через консоль"
+          ],
+          "spawnCommand": "spawn Flametal 30 p",
+          "stage": "Луга"
+        },
+        {
+          "name": "Огнеметалл",
+          "id": "FlametalNew",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Flametal.png",
+          "biomes": [],
+          "sources": [
+            "Доменная печь: Огнеметаллическая руда"
+          ],
+          "spawnCommand": "spawn FlametalNew 30 p",
+          "stage": "Луга"
+        }
+      ],
+      "mainSectionId": "resources"
+    },
+    {
+      "id": "7048703",
+      "title": "Материалы (ископаемые)",
+      "emoji": "💎",
+      "items": [
+        {
+          "name": "Камень",
+          "id": "Stone",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Stone.png",
+          "biomes": [
+            "Все"
+          ],
+          "sources": [
+            "На земле",
+            "Каменные глыбы",
+            "Из земли",
+            "Месторождения руды",
+            "Грейдворф",
+            "Грейдворф-дикарь",
+            "Каменный голем",
+            "Окунь"
+          ],
+          "spawnCommand": "spawn Stone 50 p",
+          "stage": "Луга"
+        },
+        {
+          "name": "Rock",
+          "id": "Stonerock",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_stone_rock.png",
+          "biomes": [
+            "Луга",
+            "Чёрный лес",
+            "Болота",
+            "Горы"
+          ],
+          "sources": [
+            "На земле",
+            "Расстояние от центра мира ≥ 1000 метров",
+            "Высота 5 - 20 метров"
+          ],
+          "spawnCommand": "spawn Stonerock 50 p",
+          "stage": "Луга"
+        },
+        {
+          "name": "Кремень",
+          "id": "Flint",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Flint.png",
+          "biomes": [
+            "Луга",
+            "Равнины"
+          ],
+          "sources": [
+            "У берега",
+            "Дубильни в поселениях фулингов",
+            "Щука"
+          ],
+          "spawnCommand": "spawn Flint 30 p",
+          "stage": "Луга"
+        },
+        {
+          "name": "Уголь",
+          "id": "Coal",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Coal.png",
+          "biomes": [
+            "Чёрный лес"
+          ],
+          "sources": [
+            "Углевыжигательная печь: Древесина или Качественная древесина или Цельная древесина",
+            "Бочки",
+            "Суртлинг",
+            "Пережаривая пищу"
+          ],
+          "spawnCommand": "spawn Coal 50 p",
+          "stage": "Чёрный лес"
+        },
+        {
+          "name": "Громовой камень",
+          "id": "ThunderStone",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Thunder_stone.png",
+          "biomes": [
+            "Чёрный лес"
+          ],
+          "sources": [
+            "Хальдор: Монеты x50 (Для доступа необходимо убить Древнего)"
+          ],
+          "spawnCommand": "spawn ThunderStone 1 p",
+          "stage": "Чёрный лес"
+        },
+        {
+          "name": "Кристалл",
+          "id": "Crystal",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Crystal.png",
+          "biomes": [
+            "Горы"
+          ],
+          "sources": [
+            "Каменный голем",
+            "Морозный сгустень"
+          ],
+          "spawnCommand": "spawn Crystal 50 p",
+          "stage": "Горы"
+        },
+        {
+          "name": "Обсидиан",
+          "id": "Obsidian",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Obsidian.png",
+          "biomes": [
+            "Горы"
+          ],
+          "sources": [
+            "Залежи обсидиана",
+            "Тетра"
+          ],
+          "spawnCommand": "spawn Obsidian 50 p",
+          "stage": "Горы"
+        },
+        {
+          "name": "Чёрный мрамор",
+          "id": "BlackMarble",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Black_marble.png",
+          "biomes": [
+            "Туманные земли",
+            "Пепельные земли"
+          ],
+          "sources": [
+            "Постройки",
+            "Останки гигантов",
+            "двергов"
+          ],
+          "spawnCommand": "spawn BlackMarble 50 p",
+          "stage": "Туманные земли"
+        },
+        {
+          "name": "Серокамень",
+          "id": "Grausten",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Grausten.png",
+          "biomes": [
+            "Пепельные земли"
+          ],
+          "sources": [
+            "Постройки",
+            "Серокаменные глыбы"
+          ],
+          "spawnCommand": "spawn Grausten 50 p",
+          "stage": "Пепельные земли"
+        },
+        {
+          "name": "Сера",
+          "id": "SulfurStone",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Sulfur.png",
+          "biomes": [
+            "Пепельные земли"
+          ],
+          "sources": [
+            "Серный камень",
+            "Лавовый сгустень"
+          ],
+          "spawnCommand": "spawn SulfurStone 50 p",
+          "stage": "Пепельные земли"
+        },
+        {
+          "name": "Кровавый камень",
+          "id": "GemstoneRed",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Bloodstone.png",
+          "biomes": [
+            "Пепельные земли"
+          ],
+          "sources": [
+            "Сундуки в крепости"
+          ],
+          "spawnCommand": "spawn GemstoneRed 50 p",
+          "stage": "Пепельные земли"
+        },
+        {
+          "name": "Нефрит",
+          "id": "GemstoneGreen",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Jade.png",
+          "biomes": [
+            "Пепельные земли"
+          ],
+          "sources": [
+            "Сундуки в крепости"
+          ],
+          "spawnCommand": "spawn GemstoneGreen 50 p",
+          "stage": "Пепельные земли"
+        },
+        {
+          "name": "Иолит",
+          "id": "GemstoneBlue",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Iolite.png",
+          "biomes": [
+            "Пепельные земли"
+          ],
+          "sources": [
+            "Сундуки в крепости"
+          ],
+          "spawnCommand": "spawn GemstoneBlue 50 p",
+          "stage": "Пепельные земли"
+        }
+      ],
+      "mainSectionId": "resources"
+    },
+    {
+      "id": "7048756",
+      "title": "Материалы (металлические)",
+      "emoji": "⛓️",
+      "items": [
+        {
+          "name": "Бронзовые гвозди",
+          "id": "BronzeNails",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Bronze_nails.png",
+          "biomes": [],
+          "sources": [
+            "Кузница (20 шт.): Бронза"
+          ],
+          "spawnCommand": "spawn BronzeNails 100 p",
+          "stage": "Чёрный лес"
+        },
+        {
+          "name": "Железные гвозди",
+          "id": "IronNails",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Iron_nails.png",
+          "biomes": [],
+          "sources": [
+            "Кузница (10 шт.): Железо"
+          ],
+          "spawnCommand": "spawn IronNails 100 p",
+          "stage": "Болота"
+        },
+        {
+          "name": "Необычное лезвие топора",
+          "id": "AxeHead1",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Axe_head_1.png",
+          "biomes": [
+            "Луга"
+          ],
+          "sources": [
+            "Сундуки в заброшенных домах"
+          ],
+          "spawnCommand": "spawn AxeHead1 1 p",
+          "stage": "Луга"
+        },
+        {
+          "name": "Загадочное лезвие топора",
+          "id": "AxeHead2",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Axe_head_2.png",
+          "biomes": [
+            "Луга"
+          ],
+          "sources": [
+            "Сундуки в заброшенных домах"
+          ],
+          "spawnCommand": "spawn AxeHead2 1 p",
+          "stage": "Луга"
+        },
+        {
+          "name": "Обручи для бочек",
+          "id": "BarrelRings",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Barrel_rings.png",
+          "biomes": [
+            "Чёрный лес"
+          ],
+          "sources": [
+            "Хальдор: Монеты x100"
+          ],
+          "spawnCommand": "spawn BarrelRings 10 p",
+          "stage": "Чёрный лес"
+        },
+        {
+          "name": "Цепь",
+          "id": "Chain",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Chain.png",
+          "biomes": [
+            "Болота"
+          ],
+          "sources": [
+            "Сундуки",
+            "Призрак",
+            "Гигантская сельдь"
+          ],
+          "spawnCommand": "spawn Chain 50 p",
+          "stage": "Болота"
+        },
+        {
+          "name": "Железная чаша",
+          "id": "Ironpit",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Iron_pit.png",
+          "biomes": [
+            "Луга",
+            "Пепельные земли"
+          ],
+          "sources": [
+            "Хильдир: Монеты x75",
+            "Железная костровая чаша на аванпосте двергов"
+          ],
+          "spawnCommand": "spawn Ironpit 1 p",
+          "stage": "Луга"
+        },
+        {
+          "name": "Набор цирюльника",
+          "id": "Barberkit",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Barber_kit.png",
+          "biomes": [
+            "Луга"
+          ],
+          "sources": [
+            "Хильдир: Монеты x600"
+          ],
+          "spawnCommand": "spawn Barberkit 1 p",
+          "stage": "Луга"
+        },
+        {
+          "name": "Экстрактор двергов",
+          "id": "DvergrNeedle",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Dvergr_extractor.png",
+          "biomes": [
+            "Туманные земли"
+          ],
+          "sources": [
+            "Сундуки на аванпосте двергов"
+          ],
+          "spawnCommand": "spawn DvergrNeedle 1 p",
+          "stage": "Туманные земли"
+        },
+        {
+          "name": "Пружина",
+          "id": "MechanicalSpring",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Mechanical_spring.png",
+          "biomes": [],
+          "sources": [
+            "Стол ремесленника: Переработанный Эйтр + Железо x3"
+          ],
+          "spawnCommand": "spawn MechanicalSpring 20 p",
+          "stage": "Туманные земли"
+        },
+        {
+          "name": "Обгорелая шестерня",
+          "id": "CharredCogwheel",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Charred_cogwheel.png",
+          "biomes": [
+            "Пепельные земли"
+          ],
+          "sources": [
+            "Баллиста скугг"
+          ],
+          "spawnCommand": "spawn CharredCogwheel 20 p",
+          "stage": "Пепельные земли"
+        }
+      ],
+      "mainSectionId": "resources"
+    },
+    {
+      "id": "7048772",
+      "title": "Материалы (ядра и фрагменты)",
+      "emoji": "🧩",
+      "items": [
+        {
+          "name": "Ядро суртлинга",
+          "id": "SurtlingCore",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Surtling_core.png",
+          "biomes": [
+            "Болота"
+          ],
+          "sources": [
+            "Сундуки",
+            "Погребальные комнаты",
+            "Суртлинг",
+            "Магмарыбка"
+          ],
+          "spawnCommand": "spawn SurtlingCore 10 p",
+          "stage": "Болота"
+        },
+        {
+          "name": "Ядро щита",
+          "id": "ShieldCore",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Shield_core.png",
+          "biomes": [],
+          "sources": [
+            "Стол ремесленника: Чёрное ядро, Ядро суртлинга, Керамическая пластина x5"
+          ],
+          "spawnCommand": "spawn ShieldCore 10 p",
+          "stage": "Туманные земли"
+        },
+        {
+          "name": "Чёрное ядро",
+          "id": "BlackCore",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Black_core.png",
+          "biomes": [
+            "Туманные земли"
+          ],
+          "sources": [
+            "Сундуки",
+            "Заражённые рудники"
+          ],
+          "spawnCommand": "spawn BlackCore 10 p",
+          "stage": "Туманные земли"
+        },
+        {
+          "name": "Расплавленное ядро",
+          "id": "MoltenCore",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Molten_core.png",
+          "biomes": [
+            "Пепельные земли"
+          ],
+          "sources": [
+            "Зловонные дыры",
+            "Внутри крепостей"
+          ],
+          "spawnCommand": "spawn MoltenCore 10 p",
+          "stage": "Пепельные земли"
+        },
+        {
+          "name": "Фрагмент разрушителя печатей",
+          "id": "DvergrKeyFragment",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Sealbreaker_fragment.png",
+          "biomes": [
+            "Болота"
+          ],
+          "sources": [
+            "Заражённые рудники"
+          ],
+          "spawnCommand": "spawn DvergrKeyFragment 9 p",
+          "stage": "Болота"
+        },
+        {
+          "name": "Фрагмент колокола",
+          "id": "BellFragment",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Bell_fragment.png",
+          "biomes": [
+            "Пепельные земли"
+          ],
+          "sources": [
+            "Внутри крепостей"
+          ],
+          "spawnCommand": "spawn BellFragment 10 p",
+          "stage": "Пепельные земли"
+        },
+        {
+          "name": "Осколок горшка",
+          "id": "Pot_Shard_Green",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Pot_shard.png",
+          "biomes": [
+            "Пепельные земли"
+          ],
+          "sources": [
+            "Горшки в зловонных дырах",
+            "Горшки в обугленных руинах"
+          ],
+          "spawnCommand": "spawn Pot_Shard_Green 50 p",
+          "stage": "Пепельные земли"
+        },
+        {
+          "name": "Острие Дирнвина",
+          "id": "DyrnwynTipFragment",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Dyrnwyn_tip_fragment.png",
+          "biomes": [
+            "Пепельные земли"
+          ],
+          "sources": [
+            "Таинственное место"
+          ],
+          "spawnCommand": "spawn DyrnwynTipFragment 1 p",
+          "stage": "Пепельные земли"
+        },
+        {
+          "name": "Лезвие Дирнвина",
+          "id": "DyrnwynBladeFragment",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Dyrnwyn_blade_fragment.png",
+          "biomes": [
+            "Пепельные земли"
+          ],
+          "sources": [
+            "Таинственное место"
+          ],
+          "spawnCommand": "spawn DyrnwynBladeFragment 1 p",
+          "stage": "Пепельные земли"
+        },
+        {
+          "name": "Рукоять Дирнвина",
+          "id": "DyrnwynHiltFragment",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Dyrnwyn_hilt_fragment.png",
+          "biomes": [
+            "Пепельные земли"
+          ],
+          "sources": [
+            "Владыка Рето (таинственное место)"
+          ],
+          "spawnCommand": "spawn DyrnwynHiltFragment 1 p",
+          "stage": "Пепельные земли"
+        }
+      ],
+      "mainSectionId": "resources"
+    },
+    {
+      "id": "7048686",
+      "title": "Материалы (костные)",
+      "emoji": "🦴",
+      "items": [
+        {
+          "name": "Обломки костей",
+          "id": "BoneFragments",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Bone_fragments.png",
+          "biomes": [
+            "Луга",
+            "Чёрный лес",
+            "Болота",
+            "Равнины",
+            "Пепельные земли"
+          ],
+          "sources": [
+            "Затонувшие склепы",
+            "Рядом с пещерами троллей",
+            "Рядом с дегтярными ямами",
+            "Зловонные дыры",
+            "Захоронение викинга",
+            "Скелет",
+            "Сгнившие останки"
+          ],
+          "spawnCommand": "spawn BoneFragments 50 p",
+          "stage": "Луга"
+        },
+        {
+          "name": "Твёрдый рог",
+          "id": "HardAntler",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Hard_antler.png",
+          "biomes": [
+            "Луга"
+          ],
+          "sources": [
+            "Эйктюр"
+          ],
+          "spawnCommand": "spawn HardAntler 50 p",
+          "stage": "Луга"
+        },
+        {
+          "name": "Иссохшая кость",
+          "id": "WitheredBone",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Withered_bone.png",
+          "biomes": [
+            "Болота"
+          ],
+          "sources": [
+            "Сундуки",
+            "Кучи грязного лома в затонувших склепах",
+            "Кучи грязного лома под землёй (дужка для поиcка)"
+          ],
+          "spawnCommand": "spawn WitheredBone 10 p",
+          "stage": "Болота"
+        },
+        {
+          "name": "Волчий клык",
+          "id": "WolfFang",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Wolf_fang.png",
+          "biomes": [
+            "Горы"
+          ],
+          "sources": [
+            "Волк",
+            "Фенринг"
+          ],
+          "spawnCommand": "spawn WolfFang 50 p",
+          "stage": "Горы"
+        },
+        {
+          "name": "Коготь Фенриса",
+          "id": "WolfClaw",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Fenris_claw.png",
+          "biomes": [
+            "Горы"
+          ],
+          "sources": [
+            "Морозная пещера"
+          ],
+          "spawnCommand": "spawn WolfClaw 50 p",
+          "stage": "Горы"
+        },
+        {
+          "name": "Гнилостные ребра",
+          "id": "UndeadBjornRibcage",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Undead_bjorn_ribcage.png",
+          "biomes": [
+            "Равнины"
+          ],
+          "sources": [
+            "Гнилолап"
+          ],
+          "spawnCommand": "spawn UndeadBjornRibcage 10 p",
+          "stage": "Равнины"
+        },
+        {
+          "name": "Мандибула",
+          "id": "Mandible",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Mandible.png",
+          "biomes": [
+            "Туманные земли"
+          ],
+          "sources": [
+            "Искатель"
+          ],
+          "spawnCommand": "spawn Mandible 50 p",
+          "stage": "Туманные земли"
+        },
+        {
+          "name": "Обугленная кость",
+          "id": "CharredBone",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Charred_bone.png",
+          "biomes": [
+            "Пепельные земли"
+          ],
+          "sources": [
+            "Обугленный дергун",
+            "Обугленный воин",
+            "Обугленный лучник",
+            "Обугленный чернокнижник"
+          ],
+          "spawnCommand": "spawn CharredBone 50 p",
+          "stage": "Пепельные земли"
+        },
+        {
+          "name": "Череп пеплосвина",
+          "id": "AsksvinCarrionSkull",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Asksvin_skull.png",
+          "biomes": [
+            "Пепельные земли"
+          ],
+          "sources": [
+            "Обломки костей"
+          ],
+          "spawnCommand": "spawn AsksvinCarrionSkull 10 p",
+          "stage": "Пепельные земли"
+        },
+        {
+          "name": "Шея пеплосвина",
+          "id": "AsksvinCarrionNeck",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Asksvin_neck.png",
+          "biomes": [
+            "Пепельные земли"
+          ],
+          "sources": [
+            "Обломки костей"
+          ],
+          "spawnCommand": "spawn AsksvinCarrionNeck 10 p",
+          "stage": "Пепельные земли"
+        },
+        {
+          "name": "Рёбра пеплосвина",
+          "id": "AsksvinCarrionRibcage",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Asksvin_ribcage.png",
+          "biomes": [
+            "Пепельные земли"
+          ],
+          "sources": [
+            "Обломки костей"
+          ],
+          "spawnCommand": "spawn AsksvinCarrionRibcage 10 p",
+          "stage": "Пепельные земли"
+        },
+        {
+          "name": "Таз пеплосвина",
+          "id": "AsksvinCarrionPelvic",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Asksvin_pelvis.png",
+          "biomes": [
+            "Пепельные земли"
+          ],
+          "sources": [
+            "Обломки костей"
+          ],
+          "spawnCommand": "spawn AsksvinCarrionPelvic 10 p",
+          "stage": "Пепельные земли"
+        },
+        {
+          "name": "Обгорелый череп",
+          "id": "CharredSkull",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Charred_skull.png",
+          "biomes": [
+            "Пепельные земли"
+          ],
+          "sources": [
+            "Сундуки в крепости",
+            "Памятник мучений"
+          ],
+          "spawnCommand": "spawn CharredSkull 10 p",
+          "stage": "Пепельные земли"
+        },
+        {
+          "name": "Зуб Костепасти",
+          "id": "BonemawSerpentTooth",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Bonemaw_tooth.png",
+          "biomes": [
+            "Пепельные земли"
+          ],
+          "sources": [
+            "Костепасть"
+          ],
+          "spawnCommand": "spawn BonemawSerpentTooth 50 p",
+          "stage": "Пепельные земли"
+        }
+      ],
+      "mainSectionId": "resources"
+    },
+    {
+      "id": "7048821",
+      "title": "Материалы (жидкие)",
+      "emoji": "⚗️",
+      "items": [
+        {
+          "name": "Смола",
+          "id": "Resin",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Resin.png",
+          "biomes": [
+            "Луга",
+            "Чёрный лес",
+            "Болота"
+          ],
+          "sources": [
+            "Сундуки",
+            "Берёза",
+            "Старое дерево",
+            "Грейлинг",
+            "Грейдворф",
+            "Грейдворф-шаман"
+          ],
+          "spawnCommand": "spawn Resin 50 p",
+          "stage": "Луга"
+        },
+        {
+          "name": "Слизь",
+          "id": "Guck",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Guck.png",
+          "biomes": [
+            "Болота"
+          ],
+          "sources": [
+            "Мешок слизи (на деревьях)",
+            "Мерзость"
+          ],
+          "spawnCommand": "spawn Guck 50 p",
+          "stage": "Болота"
+        },
+        {
+          "name": "Жижа",
+          "id": "Ooze",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Ooze.png",
+          "biomes": [
+            "Болота"
+          ],
+          "sources": [
+            "Сгустень",
+            "Слизняк",
+            "Иглобрюх"
+          ],
+          "spawnCommand": "spawn Ooze 50 p",
+          "stage": "Болота"
+        },
+        {
+          "name": "Драконья слеза",
+          "id": "DragonTear",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Dragon_tear.png",
+          "biomes": [
+            "Горы"
+          ],
+          "sources": [
+            "Матерь"
+          ],
+          "spawnCommand": "spawn DragonTear 10 p",
+          "stage": "Горы"
+        },
+        {
+          "name": "Дёготь",
+          "id": "Tar",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Tar.png",
+          "biomes": [
+            "Равнины"
+          ],
+          "sources": [
+            "Смолистый пруд",
+            "Поросль"
+          ],
+          "spawnCommand": "spawn Tar 50 p",
+          "stage": "Равнины"
+        },
+        {
+          "name": "Живица",
+          "id": "Sap",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Sap.png",
+          "biomes": [
+            "Туманные земли"
+          ],
+          "sources": [
+            "Из древних корней экстрактором живицы",
+            "Иглобрюх"
+          ],
+          "spawnCommand": "spawn Sap 50 p",
+          "stage": "Туманные земли"
+        },
+        {
+          "name": "Угольная смола",
+          "id": "CharcoalResin",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Charcoal_resin.png",
+          "biomes": [
+            "Пепельные земли"
+          ],
+          "sources": [
+            "Горелое дерево"
+          ],
+          "spawnCommand": "spawn CharcoalResin 50 p",
+          "stage": "Пепельные земли"
+        }
+      ],
+      "mainSectionId": "resources"
+    },
+    {
+      "id": "7048705",
+      "title": "Материалы (органика)",
+      "emoji": "🧠",
+      "items": [
+        {
+          "name": "Перья",
+          "id": "Feathers",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Feathers.png",
+          "biomes": [
+            "Луга",
+            "Чёрный лес",
+            "Пепельные земли"
+          ],
+          "sources": [
+            "Сундуки",
+            "Погребальные комнаты",
+            "Бук",
+            "Сосна",
+            "Чайка",
+            "Ворон",
+            "Цыплёнок",
+            "Курица",
+            "Стервулканник"
+          ],
+          "spawnCommand": "spawn Feathers 50 p",
+          "stage": "Луга"
+        },
+        {
+          "name": "Глаз грейдворфа",
+          "id": "GreydwarfEye",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Greydwarf_eye.png",
+          "biomes": [
+            "Чёрный лес"
+          ],
+          "sources": [
+            "Все виды грейдворфов"
+          ],
+          "spawnCommand": "spawn GreydwarfEye 50 p",
+          "stage": "Чёрный лес"
+        },
+        {
+          "name": "Медвежья лапа",
+          "id": "BjornPaw",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Bjorn_paw.png",
+          "biomes": [
+            "Чёрный лес"
+          ],
+          "sources": [
+            "Медведь",
+            "Гнилолап"
+          ],
+          "spawnCommand": "spawn BjornPaw 10 p",
+          "stage": "Чёрный лес"
+        },
+        {
+          "name": "Эктоплазма",
+          "id": "Ectoplasm",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Ectoplasm.png",
+          "biomes": [
+            "Чёрный лес"
+          ],
+          "sources": [
+            "Дух"
+          ],
+          "spawnCommand": "spawn Ectoplasm 50 p",
+          "stage": "Чёрный лес"
+        },
+        {
+          "name": "Плоть Имира",
+          "id": "YmirRemains",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Ymir_remains.png",
+          "biomes": [
+            "Чёрный лес"
+          ],
+          "sources": [
+            "Хальдор: Монеты x120 (необходимо убить Древнего)"
+          ],
+          "spawnCommand": "spawn YmirRemains 50 p",
+          "stage": "Чёрный лес"
+        },
+        {
+          "name": "Корень",
+          "id": "Root",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Root.png",
+          "biomes": [
+            "Болота"
+          ],
+          "sources": [
+            "Мерзость"
+          ],
+          "spawnCommand": "spawn Root 50 p",
+          "stage": "Болота"
+        },
+        {
+          "name": "Морозная железа",
+          "id": "FreezeGland",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Freeze_gland.png",
+          "biomes": [
+            "Горы"
+          ],
+          "sources": [
+            "Дракон"
+          ],
+          "spawnCommand": "spawn FreezeGland 50 p",
+          "stage": "Горы"
+        },
+        {
+          "name": "Шерсть Фенриса",
+          "id": "WolfHairBundle",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Fenris_hair.png",
+          "biomes": [
+            "Горы"
+          ],
+          "sources": [
+            "Морозная пещера",
+            "Культист"
+          ],
+          "spawnCommand": "spawn WolfHairBundle 50 p",
+          "stage": "Горы"
+        },
+        {
+          "name": "Игла",
+          "id": "Needle",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Needle.png",
+          "biomes": [
+            "Равнины"
+          ],
+          "sources": [
+            "Смертожал"
+          ],
+          "spawnCommand": "spawn Needle 50 p",
+          "stage": "Равнины"
+        },
+        {
+          "name": "Желчный мешок",
+          "id": "Bilebag",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Bilebag.png",
+          "biomes": [
+            "Туманные земли"
+          ],
+          "sources": [
+            "Гьялль"
+          ],
+          "spawnCommand": "spawn Bilebag 50 p",
+          "stage": "Туманные земли"
+        },
+        {
+          "name": "Кровавый сгусток",
+          "id": "GiantBloodSack",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_GiantBloodSack.png",
+          "biomes": [
+            "Туманные земли"
+          ],
+          "sources": [
+            "Клещ"
+          ],
+          "spawnCommand": "spawn GiantBloodSack 50 p",
+          "stage": "Туманные земли"
+        },
+        {
+          "name": "Небесное перо",
+          "id": "CelestialFeather",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Celestial_feather.png",
+          "biomes": [
+            "Пепельные земли"
+          ],
+          "sources": [
+            "Сундуки",
+            "Падшая валькирия"
+          ],
+          "spawnCommand": "spawn CelestialFeather 50 p",
+          "stage": "Пепельные земли"
+        },
+        {
+          "name": "Мочевой пузырь пеплосвина",
+          "id": "AskBladder",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Asksvin_bladder.png",
+          "biomes": [
+            "Пепельные земли"
+          ],
+          "sources": [
+            "Пеплосвин"
+          ],
+          "spawnCommand": "spawn AskBladder 50 p",
+          "stage": "Пепельные земли"
+        },
+        {
+          "name": "Сухожилие моргена",
+          "id": "MorgenSinew",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Morgen_sinew.png",
+          "biomes": [
+            "Пепельные земли"
+          ],
+          "sources": [
+            "Морген"
+          ],
+          "spawnCommand": "spawn MorgenSinew 50 p",
+          "stage": "Пепельные земли"
+        },
+        {
+          "name": "Сердце моргена",
+          "id": "MorgenHeart",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Morgen_heart.png",
+          "biomes": [
+            "Пепельные земли"
+          ],
+          "sources": [
+            "Морген"
+          ],
+          "spawnCommand": "spawn MorgenHeart 10 p",
+          "stage": "Пепельные земли"
+        }
+      ],
+      "mainSectionId": "resources"
+    },
+    {
+      "id": "7049976",
+      "title": "Материалы",
+      "emoji": "⚙️",
+      "items": [
+        {
+          "name": "Пчелиная матка",
+          "id": "QueenBee",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Queen_bee.png",
+          "biomes": [
+            "Луга"
+          ],
+          "sources": [
+            "Дикие улья в заброшенных домах"
+          ],
+          "spawnCommand": "spawn QueenBee 10 p",
+          "stage": "Луга"
+        },
+        {
+          "name": "Точильный камень",
+          "id": "SharpeningStone",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Sharpening_stone.png",
+          "biomes": [],
+          "sources": [
+            "Камнерез: Камень x5"
+          ],
+          "spawnCommand": "spawn SharpeningStone 20 p",
+          "stage": "Болота"
+        },
+        {
+          "name": "Свечной фитиль",
+          "id": "CandleWick",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Candle_wick.png",
+          "biomes": [
+            "Болота"
+          ],
+          "sources": [
+            "Болотная ведьма: Монеты x100 (50 шт.)"
+          ],
+          "spawnCommand": "spawn CandleWick 50 p",
+          "stage": "Болота"
+        },
+        {
+          "name": "Флакон с пробкой",
+          "id": "BlobVial",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Blob_vial.png",
+          "biomes": [
+            "Болота"
+          ],
+          "sources": [
+            "Болотная ведьма: Монеты x150 (5 шт.)"
+          ],
+          "spawnCommand": "spawn BlobVial 10 p",
+          "stage": "Болота"
+        },
+        {
+          "name": "Косовище",
+          "id": "ScytheHandle",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Scythe_handle.png",
+          "biomes": [
+            "Болота"
+          ],
+          "sources": [
+            "Болотная ведьма: Монеты x200 (необходимо убить Матерь)"
+          ],
+          "spawnCommand": "spawn ScytheHandle 1 p",
+          "stage": "Болота"
+        },
+        {
+          "name": "Льняная нить",
+          "id": "LinenThread",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Linen_thread.png",
+          "biomes": [],
+          "sources": [
+            "Прялка: Лён"
+          ],
+          "spawnCommand": "spawn LinenThread 50 p",
+          "stage": "Равнины"
+        },
+        {
+          "name": "Разорванный дух",
+          "id": "YagluthDrop",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Torn_spirit.png",
+          "biomes": [
+            "Равнины"
+          ],
+          "sources": [
+            "Яглут"
+          ],
+          "spawnCommand": "spawn YagluthDrop 50 p",
+          "stage": "Равнины"
+        },
+        {
+          "name": "Светлячок",
+          "id": "Wisp",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Wisp.png",
+          "biomes": [],
+          "sources": [
+            "Фонтан светлячков"
+          ],
+          "spawnCommand": "spawn Wisp 1 p",
+          "stage": "Равнины"
+        },
+        {
+          "name": "Переработанный Эйтр",
+          "id": "Eitr",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Refined_eitr.png",
+          "biomes": [],
+          "sources": [
+            "Машина для переработки эйтра: Живица + Мягкая ткань"
+          ],
+          "spawnCommand": "spawn Eitr 100 p",
+          "stage": "Туманные земли"
+        },
+        {
+          "name": "Керамическая пластина",
+          "id": "CeramicPlate",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Ceramic_plate.png",
+          "biomes": [],
+          "sources": [
+            "Стол ремесленника (5 шт.): Чёрный мрамор x5"
+          ],
+          "spawnCommand": "spawn CeramicPlate 10 p",
+          "stage": "Туманные земли"
+        },
+        {
+          "name": "Пруститовый порошок",
+          "id": "ProustitePowder",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Proustite_powder.png",
+          "biomes": [
+            "Пепельные земли"
+          ],
+          "sources": [
+            "Нестабильный лавовый камень",
+            "Лавовый сгустень"
+          ],
+          "spawnCommand": "spawn ProustitePowder 50 p",
+          "stage": "Пепельные земли"
+        }
+      ],
+      "mainSectionId": "resources"
+    },
+    {
+      "id": "4289234",
+      "title": "Шкуры и панцири",
+      "emoji": "🦌",
+      "items": [
+        {
+          "name": "Кожаные обрывки",
+          "id": "LeatherScraps",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Leather_scraps.png",
+          "biomes": [
+            "Луга",
+            "Чёрный лес",
+            "Болота"
+          ],
+          "sources": [
+            "Сундуки на лугах",
+            "Сундуки в пещере тролля",
+            "Кучи грязного лома в затонувших склепах",
+            "Кучи грязного лома под землёй (дужка для поиска)",
+            "Кабан",
+            "Летучая мышь"
+          ],
+          "spawnCommand": "spawn LeatherScraps 50 p",
+          "stage": "Луга"
+        },
+        {
+          "name": "Шкура оленя",
+          "id": "DeerHide",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Deer_hide.png",
+          "biomes": [
+            "Луга",
+            "Чёрный лес",
+            "Равнины"
+          ],
+          "sources": [
+            "Сундуки в пещере тролля",
+            "Дубильни в поселениях фулингов",
+            "Олень"
+          ],
+          "spawnCommand": "spawn DeerHide 50 p",
+          "stage": "Луга"
+        },
+        {
+          "name": "Медвежья шкура",
+          "id": "BjornHide",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Bjorn_hide.png",
+          "biomes": [
+            "Чёрный лес"
+          ],
+          "sources": [
+            "Медведь"
+          ],
+          "spawnCommand": "spawn BjornHide 50 p",
+          "stage": "Чёрный лес"
+        },
+        {
+          "name": "Шкура тролля",
+          "id": "TrollHide",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Troll_hide.png",
+          "biomes": [
+            "Чёрный лес"
+          ],
+          "sources": [
+            "Сундуки в чёрном лесу",
+            "Тролль",
+            "Тролль-рыба"
+          ],
+          "spawnCommand": "spawn TrollHide 50 p",
+          "stage": "Чёрный лес"
+        },
+        {
+          "name": "Шкура волка",
+          "id": "WolfPelt",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Wolf_pelt.png",
+          "biomes": [
+            "Горы"
+          ],
+          "sources": [
+            "Волк"
+          ],
+          "spawnCommand": "spawn WolfPelt 50 p",
+          "stage": "Горы"
+        },
+        {
+          "name": "Шкура быкоящера",
+          "id": "LoxPelt",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Lox_pelt.png",
+          "biomes": [
+            "Равнины"
+          ],
+          "sources": [
+            "Быкоящер"
+          ],
+          "spawnCommand": "spawn LoxPelt 50 p",
+          "stage": "Равнины"
+        },
+        {
+          "name": "Хитин",
+          "id": "Chitin",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Chitin.png",
+          "biomes": [
+            "Океан"
+          ],
+          "sources": [
+            "Спина левиафана",
+            "Коралловая треска"
+          ],
+          "spawnCommand": "spawn Chitin 50 p",
+          "stage": "Чёрный лес"
+        },
+        {
+          "name": "Чешуя змея",
+          "id": "SerpentScale",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Serpent_scale.png",
+          "biomes": [
+            "Океан"
+          ],
+          "sources": [
+            "Змей"
+          ],
+          "spawnCommand": "spawn SerpentScale 50 p",
+          "stage": "Болота"
+        },
+        {
+          "name": "Красный джут",
+          "id": "JuteRed",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Red_jute.png",
+          "biomes": [
+            "Горы"
+          ],
+          "sources": [
+            "Джутовый гобелен в ледяной пещере",
+            "Культист"
+          ],
+          "spawnCommand": "spawn JuteRed 50 p",
+          "stage": "Горы"
+        },
+        {
+          "name": "Голубой джут",
+          "id": "JuteBlue",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Blue_jute.png",
+          "biomes": [
+            "Туманные земли"
+          ],
+          "sources": [
+            "Портьеры и занавески на аванпосте двергов",
+            "Удильщик"
+          ],
+          "spawnCommand": "spawn JuteBlue 50 p",
+          "stage": "Туманные земли"
+        },
+        {
+          "name": "Чешуйчатая шкура",
+          "id": "ScaleHide",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Scale_hide.png",
+          "biomes": [
+            "Туманные земли"
+          ],
+          "sources": [
+            "Заяц"
+          ],
+          "spawnCommand": "spawn ScaleHide 50 p",
+          "stage": "Туманные земли"
+        },
+        {
+          "name": "Панцирь",
+          "id": "Carapace",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Carapace.png",
+          "biomes": [
+            "Туманные земли"
+          ],
+          "sources": [
+            "Искатель",
+            "Искатель-солдат"
+          ],
+          "spawnCommand": "spawn Carapace 50 p",
+          "stage": "Туманные земли"
+        },
+        {
+          "name": "Мягкая ткань",
+          "id": "SoftTissue",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Soft_tissue.png",
+          "biomes": [
+            "Туманные земли",
+            "Пепельные земли"
+          ],
+          "sources": [
+            "Сундуки двергов в туманных землях",
+            "Останки гигантов: череп в туманных землях",
+            "Постройки в пепельных землях",
+            "Кучи жижи в зловонных дырах",
+            "Все виды двергов",
+            "Удильщик"
+          ],
+          "spawnCommand": "spawn SoftTissue 50 p",
+          "stage": "Туманные земли"
+        },
+        {
+          "name": "Королевский панцирь",
+          "id": "QueenDrop",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Majestic_carapace.png",
+          "biomes": [
+            "Туманные земли"
+          ],
+          "sources": [
+            "Королева"
+          ],
+          "spawnCommand": "spawn QueenDrop 10 p",
+          "stage": "Туманные земли"
+        },
+        {
+          "name": "Шкура пеплосвина",
+          "id": "AskHide",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Asksvin_hide.png",
+          "biomes": [
+            "Пепельные земли"
+          ],
+          "sources": [
+            "Пеплосвин"
+          ],
+          "spawnCommand": "spawn AskHide 50 p",
+          "stage": "Пепельные земли"
+        }
+      ],
+      "mainSectionId": "resources"
+    },
+    {
+      "id": "4289941",
+      "title": "Ценности",
+      "emoji": "💰",
+      "items": [
+        {
+          "name": "Монеты",
+          "id": "Coins",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Coins.png",
+          "biomes": [],
+          "sources": [
+            "Продажа ценностей торговцам",
+            "Сундуки",
+            "Тролль",
+            "Фулинги",
+            "Дверги",
+            "Тетра"
+          ],
+          "spawnCommand": "spawn Coins 999 p",
+          "stage": "Луга"
+        },
+        {
+          "name": "Янтарь",
+          "id": "Amber",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Amber.png",
+          "biomes": [],
+          "sources": [
+            "Сундуки",
+            "Окунь"
+          ],
+          "spawnCommand": "spawn Amber 100 p",
+          "stage": "Луга"
+        },
+        {
+          "name": "Янтарная жемчужина",
+          "id": "AmberPearl",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Amber_pearl.png",
+          "biomes": [],
+          "sources": [
+            "Сундуки",
+            "Щука"
+          ],
+          "spawnCommand": "spawn AmberPearl 100 p",
+          "stage": "Луга"
+        },
+        {
+          "name": "Рубин",
+          "id": "Ruby",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Ruby.png",
+          "biomes": [],
+          "sources": [
+            "Сундуки",
+            "Тунец"
+          ],
+          "spawnCommand": "spawn Ruby 100 p",
+          "stage": "Луга"
+        },
+        {
+          "name": "Серебряное колье",
+          "id": "SilverNecklace",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Silver_necklace.png",
+          "biomes": [],
+          "sources": [
+            "Сундуки"
+          ],
+          "spawnCommand": "spawn SilverNecklace 10 p",
+          "stage": "Луга"
+        }
+      ],
+      "mainSectionId": "treasures"
+    },
+    {
+      "id": "4290040",
+      "title": "Трофеи (1 часть)",
+      "emoji": "🐗",
+      "items": [
+        {
+          "name": "Трофей: Кабан",
+          "id": "TrophyBoar",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_boar.png",
+          "biomes": [
+            "Луга"
+          ],
+          "sources": [
+            "☠️Кабан (15%)"
+          ],
+          "spawnCommand": "spawn TrophyBoar 10 p",
+          "stage": "Луга"
+        },
+        {
+          "name": "Трофей: Олень",
+          "id": "TrophyDeer",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_deer.png",
+          "biomes": [
+            "Луга"
+          ],
+          "sources": [
+            "☠️Олень (50%)"
+          ],
+          "spawnCommand": "spawn TrophyDeer 10 p",
+          "stage": "Луга"
+        },
+        {
+          "name": "Трофей: Никс",
+          "id": "TrophyNeck",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_neck.png",
+          "biomes": [
+            "Луга"
+          ],
+          "sources": [
+            "☠️Никс (5%)"
+          ],
+          "spawnCommand": "spawn TrophyNeck 10 p",
+          "stage": "Луга"
+        },
+        {
+          "name": "Трофей: Грейдворф",
+          "id": "TrophyGreydwarf",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_greydwarf.png",
+          "biomes": [
+            "Чёрный лес"
+          ],
+          "sources": [
+            "☠️Грейдворф (5%)"
+          ],
+          "spawnCommand": "spawn TrophyGreydwarf 10 p",
+          "stage": "Чёрный лес"
+        },
+        {
+          "name": "Трофей: Грейдворф-дикарь",
+          "id": "TrophyGreydwarfBrute",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_greydwarf_brute.png",
+          "biomes": [
+            "Чёрный лес"
+          ],
+          "sources": [
+            "☠️Грейдворф-дикарь (10%)"
+          ],
+          "spawnCommand": "spawn TrophyGreydwarfBrute 10 p",
+          "stage": "Чёрный лес"
+        },
+        {
+          "name": "Трофей: Грейдворф-шаман",
+          "id": "TrophyGreydwarfShaman",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_greydwarf_shaman.png",
+          "biomes": [
+            "Чёрный лес"
+          ],
+          "sources": [
+            "☠️Грейдворф-шаман (10%)"
+          ],
+          "spawnCommand": "spawn TrophyGreydwarfShaman 10 p",
+          "stage": "Чёрный лес"
+        },
+        {
+          "name": "Трофей: Медведь",
+          "id": "TrophyBjorn",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_bjorn.png",
+          "biomes": [
+            "Чёрный лес"
+          ],
+          "sources": [
+            "☠️Медведь (10%)"
+          ],
+          "spawnCommand": "spawn TrophyBjorn 10 p",
+          "stage": "Чёрный лес"
+        },
+        {
+          "name": "Трофей: Тролль",
+          "id": "TrophyFrostTroll",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_frost_troll.png",
+          "biomes": [
+            "Чёрный лес"
+          ],
+          "sources": [
+            "☠️Тролль (50%)"
+          ],
+          "spawnCommand": "spawn TrophyFrostTroll 10 p",
+          "stage": "Чёрный лес"
+        },
+        {
+          "name": "Трофей: Дух",
+          "id": "TrophyGhost",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_ghost.png",
+          "biomes": [
+            "Чёрный лес"
+          ],
+          "sources": [
+            "☠️Дух (10%)"
+          ],
+          "spawnCommand": "spawn TrophyGhost 10 p",
+          "stage": "Чёрный лес"
+        },
+        {
+          "name": "Трофей: Скелет",
+          "id": "TrophySkeleton",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_skeleton.png",
+          "biomes": [
+            "Чёрный лес",
+            "Болота"
+          ],
+          "sources": [
+            "☠️Скелет (10%)"
+          ],
+          "spawnCommand": "spawn TrophySkeleton 10 p",
+          "stage": "Чёрный лес"
+        },
+        {
+          "name": "Трофей: Гниющие останки",
+          "id": "TrophySkeletonPoison",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_skeleton_poison.png",
+          "biomes": [
+            "Чёрный лес"
+          ],
+          "sources": [
+            "☠️Гниющие останки (10%)"
+          ],
+          "spawnCommand": "spawn TrophySkeletonPoison 10 p",
+          "stage": "Чёрный лес"
+        },
+        {
+          "name": "Трофей: Пиявка",
+          "id": "TrophyLeech",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_leech.png",
+          "biomes": [
+            "Болота"
+          ],
+          "sources": [
+            "☠️Пиявка (10%)"
+          ],
+          "spawnCommand": "spawn TrophyLeech 10 p",
+          "stage": "Болота"
+        },
+        {
+          "name": "Трофей: Драугр",
+          "id": "TrophyDraugr",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_draugr.png",
+          "biomes": [
+            "Болота"
+          ],
+          "sources": [
+            "☠️Драугр (10%)"
+          ],
+          "spawnCommand": "spawn TrophyDraugr 10 p",
+          "stage": "Болота"
+        },
+        {
+          "name": "Трофей: Элитный драугр",
+          "id": "TrophyDraugrElite",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_draugr_elite.png",
+          "biomes": [
+            "Болота"
+          ],
+          "sources": [
+            "☠️Элитный драугр (10%)"
+          ],
+          "spawnCommand": "spawn TrophyDraugrElite 10 p",
+          "stage": "Болота"
+        },
+        {
+          "name": "Трофей: Призрак",
+          "id": "TrophyWraith",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_wraith.png",
+          "biomes": [
+            "Болота"
+          ],
+          "sources": [
+            "☠️Призрак (5%)"
+          ],
+          "spawnCommand": "spawn TrophyWraith 10 p",
+          "stage": "Болота"
+        },
+        {
+          "name": "Трофей: Мерзость",
+          "id": "TrophyAbomination",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Tophy_abomination.png",
+          "biomes": [
+            "Болота"
+          ],
+          "sources": [
+            "☠️Мерзость (50%)"
+          ],
+          "spawnCommand": "spawn TrophyAbomination 10 p",
+          "stage": "Болота"
+        },
+        {
+          "name": "Квастур",
+          "id": "TrophyKvastur",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_kvastur.png",
+          "biomes": [
+            "Болота"
+          ],
+          "sources": [
+            "☠️Квастур (100%)"
+          ],
+          "spawnCommand": "spawn TrophyKvastur 10 p",
+          "stage": "Болота"
+        },
+        {
+          "name": "Трофей: Слизь",
+          "id": "TrophyBlob",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_blob.png",
+          "biomes": [
+            "Болота"
+          ],
+          "sources": [
+            "☠️Слизь (10%)"
+          ],
+          "spawnCommand": "spawn TrophyBlob 10 p",
+          "stage": "Болота"
+        },
+        {
+          "name": "Трофей: Волк",
+          "id": "TrophyWolf",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_wolf.png",
+          "biomes": [
+            "Горы"
+          ],
+          "sources": [
+            "☠️Волк (10%)"
+          ],
+          "spawnCommand": "spawn TrophyWolf 10 p",
+          "stage": "Горы"
+        },
+        {
+          "name": "Трофей: Фенринг",
+          "id": "TrophyFenring",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_fenring.png",
+          "biomes": [
+            "Горы"
+          ],
+          "sources": [
+            "☠️Фенринг (10%)"
+          ],
+          "spawnCommand": "spawn TrophyFenring 10 p",
+          "stage": "Горы"
+        },
+        {
+          "name": "Трофей: Каменный голем",
+          "id": "TrophySGolem",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_s_golem.png",
+          "biomes": [
+            "Горы"
+          ],
+          "sources": [
+            "☠️Каменный голем (5%)"
+          ],
+          "spawnCommand": "spawn TrophySGolem 10 p",
+          "stage": "Горы"
+        },
+        {
+          "name": "Трофей: Дракон",
+          "id": "TrophyHatchling",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_hatchling.png",
+          "biomes": [
+            "Горы"
+          ],
+          "sources": [
+            "☠️Дракон (5%)"
+          ],
+          "spawnCommand": "spawn TrophyHatchling 10 p",
+          "stage": "Горы"
+        },
+        {
+          "name": "Трофей: Ульв",
+          "id": "TrophyUlv",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_ulv.png",
+          "biomes": [
+            "Горы"
+          ],
+          "sources": [
+            "☠️Ульв (10%)"
+          ],
+          "spawnCommand": "spawn TrophyUlv 10 p",
+          "stage": "Горы"
+        },
+        {
+          "name": "Трофей: Культист",
+          "id": "TrophyCultist",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_cultist.png",
+          "biomes": [
+            "Горы"
+          ],
+          "sources": [
+            "☠️Культист (10%)"
+          ],
+          "spawnCommand": "spawn TrophyCultist 10 p",
+          "stage": "Горы"
+        }
+      ],
+      "mainSectionId": "trophies"
+    },
+    {
+      "id": "4829014",
+      "title": "Трофеи (2 часть)",
+      "emoji": "🐺",
+      "items": [
+        {
+          "name": "Трофей: Смертожал",
+          "id": "TrophyDeathsquito",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_deathsquito.png",
+          "biomes": [
+            "Равнины"
+          ],
+          "sources": [
+            "☠️Смертожал (1%)"
+          ],
+          "spawnCommand": "spawn TrophyDeathsquito 10 p",
+          "stage": "Равнины"
+        },
+        {
+          "name": "Трофей: Быкоящер",
+          "id": "TrophyLox",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_lox.png",
+          "biomes": [
+            "Равнины"
+          ],
+          "sources": [
+            "☠️Быкоящер (10%)"
+          ],
+          "spawnCommand": "spawn TrophyLox 10 p",
+          "stage": "Равнины"
+        },
+        {
+          "name": "Трофей: Фулинг",
+          "id": "TrophyGoblin",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_goblin.png",
+          "biomes": [
+            "Равнины"
+          ],
+          "sources": [
+            "☠️Фулинг (10%)"
+          ],
+          "spawnCommand": "spawn TrophyGoblin 10 p",
+          "stage": "Равнины"
+        },
+        {
+          "name": "Трофей: Фулинг-берсерк",
+          "id": "TrophyGoblinBrute",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Fuling_berserker_trophy.png",
+          "biomes": [
+            "Равнины"
+          ],
+          "sources": [
+            "☠️Фулинг-берсерк (5%)"
+          ],
+          "spawnCommand": "spawn TrophyGoblinBrute 10 p",
+          "stage": "Равнины"
+        },
+        {
+          "name": "Трофей: Фулинг-шаман",
+          "id": "TrophyGoblinShaman",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_goblin_shaman.png",
+          "biomes": [
+            "Равнины"
+          ],
+          "sources": [
+            "☠️Фулинг-шаман (10%)"
+          ],
+          "spawnCommand": "spawn TrophyGoblinShaman 10 p",
+          "stage": "Равнины"
+        },
+        {
+          "name": "Трофей: Гнилолап",
+          "id": "TrophyBjornUndead",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_bjorn_undead.png",
+          "biomes": [
+            "Равнины"
+          ],
+          "sources": [
+            "☠️Гнилолап (10%)"
+          ],
+          "spawnCommand": "spawn TrophyBjornUndead 10 p",
+          "stage": "Равнины"
+        },
+        {
+          "name": "Трофей: Поросль",
+          "id": "TrophyGrowth",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_growth.png",
+          "biomes": [
+            "Равнины"
+          ],
+          "sources": [
+            "☠️Поросль (10%)"
+          ],
+          "spawnCommand": "spawn TrophyGrowth 10 p",
+          "stage": "Равнины"
+        },
+        {
+          "name": "Трофей: Искатель",
+          "id": "TrophySeeker",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_seeker.png",
+          "biomes": [
+            "Туманные земли"
+          ],
+          "sources": [
+            "☠️Искатель (5%)"
+          ],
+          "spawnCommand": "spawn TrophySeeker 10 p",
+          "stage": "Туманные земли"
+        },
+        {
+          "name": "Трофей: Клещ",
+          "id": "TrophyTick",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_tick.png",
+          "biomes": [
+            "Туманные земли"
+          ],
+          "sources": [
+            "☠️Клещ (5%)"
+          ],
+          "spawnCommand": "spawn TrophyTick 10 p",
+          "stage": "Туманные земли"
+        },
+        {
+          "name": "Трофей: Заяц",
+          "id": "TrophyHare",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_hare.png",
+          "biomes": [
+            "Туманные земли"
+          ],
+          "sources": [
+            "☠️Заяц (5%)"
+          ],
+          "spawnCommand": "spawn TrophyHare 10 p",
+          "stage": "Туманные земли"
+        },
+        {
+          "name": "Трофей: Искатель-солдат",
+          "id": "TrophySeekerBrute",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_seeker_soldier.png",
+          "biomes": [
+            "Туманные земли"
+          ],
+          "sources": [
+            "☠️Искатель-солдат (5%)"
+          ],
+          "spawnCommand": "spawn TrophySeekerBrute 10 p",
+          "stage": "Туманные земли"
+        },
+        {
+          "name": "Трофей: Гьялль",
+          "id": "TrophyGjall",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_gjall.png",
+          "biomes": [
+            "Туманные земли"
+          ],
+          "sources": [
+            "☠️Гьялль (30%)"
+          ],
+          "spawnCommand": "spawn TrophyGjall 10 p",
+          "stage": "Туманные земли"
+        },
+        {
+          "name": "Трофей: Дверг",
+          "id": "TrophyDvergr",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_dvergr.png",
+          "biomes": [
+            "Туманные земли"
+          ],
+          "sources": [
+            "☠️Дверг (5%)"
+          ],
+          "spawnCommand": "spawn TrophyDvergr 10 p",
+          "stage": "Туманные земли"
+        },
+        {
+          "name": "Трофей: Суртлинг",
+          "id": "TrophySurtling",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_surtling.png",
+          "biomes": [
+            "Болота",
+            "Пепельные земли"
+          ],
+          "sources": [
+            "☠️Суртлинг (5%)"
+          ],
+          "spawnCommand": "spawn TrophySurtling 10 p",
+          "stage": "Болота"
+        },
+        {
+          "name": "Трофей: Змей",
+          "id": "TrophySerpent",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_serpent.png",
+          "biomes": [
+            "Океан"
+          ],
+          "sources": [
+            "☠️Змей (33%)"
+          ],
+          "spawnCommand": "spawn TrophySerpent 10 p",
+          "stage": "Чёрный лес"
+        },
+        {
+          "name": "Трофей: Воин",
+          "id": "TrophyCharredMelee",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_warrior.png",
+          "biomes": [
+            "Пепельные земли"
+          ],
+          "sources": [
+            "☠️Воин (5%)"
+          ],
+          "spawnCommand": "spawn TrophyCharredMelee 10 p",
+          "stage": "Пепельные земли"
+        },
+        {
+          "name": "Трофей: Чернокнижник",
+          "id": "TrophyCharredMage",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_warlock.png",
+          "biomes": [
+            "Пепельные земли"
+          ],
+          "sources": [
+            "☠️Чернокнижник (5%)"
+          ],
+          "spawnCommand": "spawn TrophyCharredMage 10 p",
+          "stage": "Пепельные земли"
+        },
+        {
+          "name": "Трофей: Лучник",
+          "id": "TrophyCharredArcher",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_marksman.png",
+          "biomes": [
+            "Пепельные земли"
+          ],
+          "sources": [
+            "☠️Лучник (5%)"
+          ],
+          "spawnCommand": "spawn TrophyCharredArcher 10 p",
+          "stage": "Пепельные земли"
+        },
+        {
+          "name": "Трофей: Падшая валькирия",
+          "id": "TrophyFallenValkyrie",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_fallen_valkyrie.png",
+          "biomes": [
+            "Пепельные земли"
+          ],
+          "sources": [
+            "☠️Падшая валькирия (5%)"
+          ],
+          "spawnCommand": "spawn TrophyFallenValkyrie 10 p",
+          "stage": "Пепельные земли"
+        },
+        {
+          "name": "Трофей: Морген",
+          "id": "TrophyMorgen",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_morgen.png",
+          "biomes": [
+            "Пепельные земли"
+          ],
+          "sources": [
+            "☠️Морген (5%)"
+          ],
+          "spawnCommand": "spawn TrophyMorgen 10 p",
+          "stage": "Пепельные земли"
+        },
+        {
+          "name": "Трофей: Пеплосвин",
+          "id": "TrophyAsksvin",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_asksvin.png",
+          "biomes": [
+            "Пепельные земли"
+          ],
+          "sources": [
+            "☠️Пеплосвин (10%)"
+          ],
+          "spawnCommand": "spawn TrophyAsksvin 10 p",
+          "stage": "Пепельные земли"
+        },
+        {
+          "name": "Трофей: Стервулканник",
+          "id": "TrophyVolture",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_volture.png",
+          "biomes": [
+            "Пепельные земли"
+          ],
+          "sources": [
+            "☠️Стервулканник (10%)"
+          ],
+          "spawnCommand": "spawn TrophyVolture 10 p",
+          "stage": "Пепельные земли"
+        },
+        {
+          "name": "Трофей: Костепасть",
+          "id": "TrophyBonemawSerpent",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_bonemaw.png",
+          "biomes": [
+            "Пепельные земли"
+          ],
+          "sources": [
+            "☠️Костепасть (33%)"
+          ],
+          "spawnCommand": "spawn TrophyBonemawSerpent 10 p",
+          "stage": "Пепельные земли"
+        }
+      ],
+      "mainSectionId": "trophies"
+    },
+    {
+      "id": "4291358",
+      "title": "Трофеи боссов",
+      "emoji": "🐲",
+      "items": [
+        {
+          "name": "Трофей: Эйктюр",
+          "id": "TrophyEikthyr",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_Eikthyr.png",
+          "biomes": [
+            "Луга"
+          ],
+          "sources": [
+            "☠️Эйктюр (100%)"
+          ],
+          "spawnCommand": "spawn TrophyEikthyr 1 p",
+          "stage": "Луга"
+        },
+        {
+          "name": "Трофей: Древний",
+          "id": "TrophyTheElder",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_The_Elder.png",
+          "biomes": [
+            "Чёрный лес"
+          ],
+          "sources": [
+            "☠️Древний (100%)"
+          ],
+          "spawnCommand": "spawn TrophyTheElder 1 p",
+          "stage": "Чёрный лес"
+        },
+        {
+          "name": "Трофей: Масса костей",
+          "id": "TrophyBonemass",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_Bonemass.png",
+          "biomes": [
+            "Болота"
+          ],
+          "sources": [
+            "☠️Масса костей (100%)"
+          ],
+          "spawnCommand": "spawn TrophyBonemass 1 p",
+          "stage": "Болота"
+        },
+        {
+          "name": "Трофей: Матерь",
+          "id": "TrophyDragonQueen",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_Dragon_Queen.png",
+          "biomes": [
+            "Горы"
+          ],
+          "sources": [
+            "☠️Матерь (100%)"
+          ],
+          "spawnCommand": "spawn TrophyDragonQueen 1 p",
+          "stage": "Горы"
+        },
+        {
+          "name": "Трофей: Яглут",
+          "id": "TrophyGoblinKing",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_Goblin_King.png",
+          "biomes": [
+            "Равнины"
+          ],
+          "sources": [
+            "☠️Яглут (100%)"
+          ],
+          "spawnCommand": "spawn TrophyGoblinKing 1 p",
+          "stage": "Равнины"
+        },
+        {
+          "name": "Трофей: Королева",
+          "id": "TrophySeekerQueen",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_the_Queen.png",
+          "biomes": [
+            "Туманные земли"
+          ],
+          "sources": [
+            "☠️Королева (100%)"
+          ],
+          "spawnCommand": "spawn TrophySeekerQueen 1 p",
+          "stage": "Туманные земли"
+        },
+        {
+          "name": "Трофей: Прародитель",
+          "id": "TrophyFader",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_fader.png",
+          "biomes": [
+            "Пепельные земли"
+          ],
+          "sources": [
+            "☠️Прародитель (100%)"
+          ],
+          "spawnCommand": "spawn TrophyFader 1 p",
+          "stage": "Пепельные земли"
+        },
+        {
+          "name": "Трофей: Бренна",
+          "id": "TrophySkeletonHildir",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_Brenna.png",
+          "biomes": [
+            "Чёрный лес"
+          ],
+          "sources": [
+            "☠️Бренна (100%)"
+          ],
+          "spawnCommand": "spawn TrophySkeletonHildir 1 p",
+          "stage": "Чёрный лес"
+        },
+        {
+          "name": "Трофей: Гейрафа",
+          "id": "TrophyCultist_Hildir",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_Geirrhafa.png",
+          "biomes": [
+            "Горы"
+          ],
+          "sources": [
+            "☠️Гейрафа (100%)"
+          ],
+          "spawnCommand": "spawn TrophyCultist_Hildir 1 p",
+          "stage": "Горы"
+        },
+        {
+          "name": "Трофей: Зил",
+          "id": "TrophyGoblinBruteBrosShaman",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_Zil.png",
+          "biomes": [
+            "Равнины"
+          ],
+          "sources": [
+            "☠️Зил (100%)"
+          ],
+          "spawnCommand": "spawn TrophyGoblinBruteBrosShaman 1 p",
+          "stage": "Равнины"
+        },
+        {
+          "name": "Трофей: Тангр",
+          "id": "TrophyGoblinBruteBrosBrute",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Trophy_Thungr.png",
+          "biomes": [
+            "Равнины"
+          ],
+          "sources": [
+            "☠️Тангр (100%)"
+          ],
+          "spawnCommand": "spawn TrophyGoblinBruteBrosBrute 1 p",
+          "stage": "Равнины"
+        }
+      ],
+      "mainSectionId": "trophies"
+    },
+    {
+      "id": "4289967",
+      "title": "Основы медовух (1 часть)",
+      "emoji": "🍲",
+      "items": [
+        {
+          "name": "Основа медовухи: вкусная",
+          "id": "MeadBaseTasty",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Mead_base_tasty.png",
+          "biomes": [
+            "Луга",
+            "Чёрный лес"
+          ],
+          "sources": [
+            "Котел для медовух:, 🔹Мёд x10, 🔹Малина x10, 🔹Черника x5"
+          ],
+          "spawnCommand": "spawn MeadBaseTasty 1 p",
+          "stage": "Чёрный лес"
+        },
+        {
+          "name": "Основа медовухи: малое лечение",
+          "id": "MeadBaseHealthMinor",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Mead_base_health_minor.png",
+          "biomes": [
+            "Луга",
+            "Чёрный лес"
+          ],
+          "sources": [
+            "Котел для медовух:, 🔹Мёд x10, 🔹Малина x10, 🔹Черника x5, 🔹Одуванчик"
+          ],
+          "spawnCommand": "spawn MeadBaseHealthMinor 1 p",
+          "stage": "Чёрный лес"
+        },
+        {
+          "name": "Основа медовухи: среднее лечение",
+          "id": "MeadBaseHealthMedium",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Mead_base_health_medium.png",
+          "biomes": [
+            "Луга",
+            "Болота"
+          ],
+          "sources": [
+            "Котел для медовух:, 🔹Мёд x10, 🔹Малина x10, 🔹Туша x4, 🔹Одуванчик"
+          ],
+          "spawnCommand": "spawn MeadBaseHealthMedium 1 p",
+          "stage": "Болота"
+        },
+        {
+          "name": "Основа медовухи: большое лечение",
+          "id": "MeadBaseHealthMajor",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Mead_base_health_major.png",
+          "biomes": [
+            "Луга",
+            "Болота",
+            "Туманные земли"
+          ],
+          "sources": [
+            "Котел для медовух:, 🔹Мёд x10, 🔹Кровавый сгусток x4, 🔹Маточное молочко x5"
+          ],
+          "spawnCommand": "spawn MeadBaseHealthMajor 1 p",
+          "stage": "Туманные земли"
+        },
+        {
+          "name": "Основа медовухи: мощное лечение",
+          "id": "MeadBaseHealthLingering",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Base_health_lingering.png",
+          "biomes": [
+            "Чёрный лес",
+            "Пепельные земли",
+            "Туманные земли"
+          ],
+          "sources": [
+            "Котел для медовух:, 🔹Живица x10, 🔹Гроздь лозовых ягод x10 , 🔹Дымчатый гриб x10"
+          ],
+          "spawnCommand": "spawn MeadBaseHealthLingering 1 p",
+          "stage": "Пепельные земли"
+        },
+        {
+          "name": "Основа медовухи: малая выносливость",
+          "id": "MeadBaseStaminaMinor",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Base_stamina_minor.png",
+          "biomes": [
+            "Луга",
+            "Чёрный лес"
+          ],
+          "sources": [
+            "Котел для медовух:, 🔹Мёд x10, 🔹Малина x10 , 🔹Жёлтый гриб x10"
+          ],
+          "spawnCommand": "spawn MeadBaseStaminaMinor 1 p",
+          "stage": "Чёрный лес"
+        },
+        {
+          "name": "Основа медовухи: средняя выносливость",
+          "id": "MeadBaseStaminaMedium",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Mead_base_stamina_medium.png",
+          "biomes": [
+            "Луга",
+            "Равнины",
+            "Чёрный лес"
+          ],
+          "sources": [
+            "Котел для медовух:, 🔹Мёд x10, 🔹Морошка x10, 🔹Жёлтый гриб x10"
+          ],
+          "spawnCommand": "spawn MeadBaseStaminaMedium 1 p",
+          "stage": "Равнины"
+        },
+        {
+          "name": "Основа медовухи: большая выносливость",
+          "id": "MeadBaseStaminaLingering",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Mead_base_stamina_lingering.png",
+          "biomes": [
+            "Чёрный лес",
+            "Равнины",
+            "Туманные земли"
+          ],
+          "sources": [
+            "Котел для медовух:, 🔹Живица x10, 🔹Морошка x10 , 🔹Гриб Йотунов x10"
+          ],
+          "spawnCommand": "spawn MeadBaseStaminaLingering 1 p",
+          "stage": "Туманные земли"
+        },
+        {
+          "name": "Основа медовухи: малый Эйтр",
+          "id": "MeadBaseEitrMinor",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Mead_base_eitr_minor.png",
+          "biomes": [
+            "Луга",
+            "Чёрный лес",
+            "Туманные земли"
+          ],
+          "sources": [
+            "Котел для медовух:, 🔹Мёд x10, 🔹Живица x5, 🔹Гриб Йотунов x2, 🔹Волшебный гриб x5"
+          ],
+          "spawnCommand": "spawn MeadBaseEitrMinor 1 p",
+          "stage": "Туманные земли"
+        },
+        {
+          "name": "Основа медовухи: мощный Эйтр",
+          "id": "MeadBaseEitrLingering",
+          "image": "./Сообщество Steam __ Руководство __ Все предметы с картинками и ID_files/2414369585_preview_Mead_base_eitr_lingering.png",
+          "biomes": [
+            "Чёрный лес",
+            "Пепельные земли",
+            "Туманные земли"
+          ],
+          "sources": [
+            "Котел для медовух:, 🔹Живица x10, 🔹Гроздь лозовых ягод x10, 🔹Волшебный гриб x10"
+          ],
+          "spawnCommand": "spawn MeadBaseEitrLingering 1 p",
+          "stage": "Пепельные земли"
+        }
+      ],
+      "mainSectionId": "consumables"
+    }
+  ],
+  "mainSections": [
+    {
+      "id": "resources",
+      "title": "Ресурсы и Материалы",
+      "emoji": "🪵"
+    },
+    {
+      "id": "equipment",
+      "title": "Оружие и Броня",
+      "emoji": "⚔️"
+    },
+    {
+      "id": "consumables",
+      "title": "Еда и Зелья",
+      "emoji": "🍗"
+    },
+    {
+      "id": "trophies",
+      "title": "Трофеи",
+      "emoji": "🦌"
+    },
+    {
+      "id": "utility",
+      "title": "Инструменты и Ключи",
+      "emoji": "🔑"
+    },
+    {
+      "id": "treasures",
+      "title": "Ценности и Торговец",
+      "emoji": "💰"
+    }
+  ]
+}
